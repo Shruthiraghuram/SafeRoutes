@@ -19,8 +19,6 @@ Deployment: AWS or Google Cloud
 
 #Installation
 #.Clone the Repository
-bash
-git clone https://github.com/username/women-safe-route-navigation.git
 
 #Install Dependencies
 bash
